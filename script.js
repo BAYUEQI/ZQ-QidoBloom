@@ -1620,7 +1620,7 @@ async function initPopupGroupsManagement(popupContent) {
                 <div class="popup-group-header">
                     <h5>${group.name}</h5>
                     <div class="popup-group-actions">
-                        <button class="btn btn-secondary btn-sm popup-add-site-btn" data-group-id="${group.id}">添加网站</button>
+                        <button class="btn btn-secondary btn-sm popup-add-site-btn" data-group-id="${group.id}">添加</button>
                         <button class="btn btn-secondary btn-sm popup-edit-group-btn" data-group-id="${group.id}">编辑</button>
                         <button class="btn btn-danger btn-sm popup-delete-group-btn" data-group-id="${group.id}">删除</button>
                     </div>
